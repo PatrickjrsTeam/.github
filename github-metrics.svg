@@ -17,7 +17,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            Joined GitHub 1 year ago
+                            Joined GitHub 2 years ago
                         </div>
                     </section>
                     <section>
@@ -165,7 +165,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#18f24e0</div>
+                                        <div class="sha">#1df172b</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -193,7 +193,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.365503080082126 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.77310061601641 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -216,10 +216,10 @@
                                     <span class="prefix"></span>
                                     Member
                                     <div class="value-wrapper">
-                                        <div class="value">1</div>
+                                        <div class="value">2</div>
                                     </div>
                                 </div>
-                                <div class="text">Registered 1 year ago</div>
+                                <div class="text">Registered 2 years ago</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -380,7 +380,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 6 May 2024, 01:41:58 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 May 2024, 01:42:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
