@@ -165,7 +165,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1b18d59</div>
+                                        <div class="sha">#d6ebc13</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -186,7 +186,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b1caf6</div>
+                                        <div class="sha">#1b18d59</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -214,7 +214,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 29 Sept 2025, 01:59:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2025, 01:58:30 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
